@@ -9,5 +9,3 @@ fig = px.scatter(df, x="Date", y="Confirmed Cases",
                  color="Country", title="No Of Cases Of Covid-19 Every Day")
 
 fig.show()
-
-# %%
